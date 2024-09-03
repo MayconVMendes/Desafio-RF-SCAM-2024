@@ -1,0 +1,27 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.userosx
+*.suo
+*.ntvs_analysis.dat
+*.vscode/
+.vscode/
+
+# Ignore NuGet packages
+*.nupkg
+# Ignore NuGet packages directory
+packages/
+# Ignore npm packages
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore ASP.NET Core secrets
+.env
+
+# Ignore local development settings
+appsettings.Development.json

@@ -1,0 +1,72 @@
+@import "ngx-toastr/toastr";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+button {
+  transition: all ease-in-out 0.2s;
+  font-size: 16px;
+  color: #fff;
+  padding: 7px;
+  width: 90px;
+  height: 42px;
+  cursor: pointer;
+
+  &:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+}
+
+button.edit {
+  border: 2px solid rgb(255, 195, 85);
+  background-color: rgb(255, 195, 85);
+  &:hover {
+    background-color: orange;
+    border: 2px solid orange;
+  }
+}
+
+button.remove {
+  border: 2px solid rgb(255, 91, 91);
+  background-color: rgb(255, 91, 91);
+
+  &:hover {
+    border: 2px solid red;
+    background-color: red;
+  }
+}
+
+.suspense {
+  border-radius: 50%;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  text-decoration: none;
+  color: #000;
+  border: 1px solid #000;
+  background-color: #eeeeee;
+  width: 50px;
+  height: 50px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  transition: all ease-in-out 0.2s;
+
+  &:hover {
+    background-color: #cacaca;
+  }
+  img {
+    width: 30px;
+  }
+}

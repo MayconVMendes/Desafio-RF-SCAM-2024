@@ -1,0 +1,118 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 20px;
+  align-items: center;
+  height: 100%;
+  justify-content: center;
+
+  form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 45px;
+    width: auto;
+    height: auto;
+    box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+    gap: 15px;
+
+    .form-group {
+      display: flex;
+      align-items: center;
+      justify-content: left;
+      gap: 15px;
+      text-align: left;
+
+      label {
+        width: 130px;
+      }
+    }
+    input,
+    select {
+      height: 42px;
+      width: 200px;
+      padding: 5px 5px 5px 10px;
+      border-radius: 10px;
+      border: 1px solid #000;
+    }
+
+    button {
+      border: 2px solid #24b4fb;
+      background-color: #24b4fb;
+      border-radius: 10px;
+
+      &:hover {
+        background-color: rgb(63, 255, 63);
+        border: 2px solid rgb(63, 255, 63);
+      }
+    }
+  }
+
+  .table {
+    width: 100%;
+    padding: 0 20px 0 20px;
+    overflow-x: auto;
+    display: flex;
+    justify-content: center;
+  }
+
+  table {
+    border-collapse: collapse;
+    border: 1px solid #c3c3c3;
+    box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+    padding: 15px;
+    width: auto;
+    border-collapse: collapse;
+
+    thead {
+      th {
+        border: 1px solid #c1c1c1;
+        border-top: none;
+        &:last-child,
+        &:first-child {
+          border-right: none;
+          border-left: none;
+        }
+      }
+    }
+
+    tr {
+      &:nth-child(even) {
+        background-color: #93dbff3f;
+      }
+
+      &:hover {
+        background-color: #24b3fb8a;
+        color: #fff;
+      }
+    }
+
+    th,
+    td {
+      padding: 20px;
+      text-align: center;
+      width: auto;
+    }
+
+    th {
+      font-weight: bold;
+    }
+
+    .actions {
+      display: flex;
+      width: auto;
+    }
+
+    button {
+      &.edit {
+        border-radius: 10px 0 0 10px;
+      }
+
+      &.remove {
+        border-radius: 0 10px 10px 0;
+      }
+    }
+  }
+}

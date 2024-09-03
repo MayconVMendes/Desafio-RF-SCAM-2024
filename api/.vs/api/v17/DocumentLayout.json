@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mayco\\source\\repos\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|c:\\users\\mayco\\source\\repos\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|c:\\users\\mayco\\source\\repos\\api\\api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|solutionrelative:api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|c:\\users\\mayco\\source\\repos\\api\\api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|solutionrelative:api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|c:\\users\\mayco\\source\\repos\\api\\api\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|solutionrelative:api\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|c:\\users\\mayco\\source\\repos\\api\\api\\dtos\\employeewithdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|solutionrelative:api\\dtos\\employeewithdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|c:\\users\\mayco\\source\\repos\\api\\api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|solutionrelative:api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|c:\\users\\mayco\\source\\repos\\api\\api\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|solutionrelative:api\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|c:\\users\\mayco\\source\\repos\\api\\api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|solutionrelative:api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|c:\\users\\mayco\\source\\repos\\api\\api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|solutionrelative:api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|c:\\users\\mayco\\source\\repos\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7AD12E0-A500-4397-AEEC-3C5A44623F46}|api\\api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeWithDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\mayco\\source\\repos\\api\\api\\DTOs\\EmployeeWithDepartmentDto.cs",
+              "RelativeDocumentMoniker": "api\\DTOs\\EmployeeWithDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\mayco\\source\\repos\\api\\api\\DTOs\\EmployeeWithDepartmentDto.cs",
+              "RelativeToolTip": "api\\DTOs\\EmployeeWithDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:45:44.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\mayco\\source\\repos\\api\\api\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "api\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\mayco\\source\\repos\\api\\api\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "api\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:27:36.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mayco\\source\\repos\\api\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "C:\\Users\\mayco\\source\\repos\\api\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T00:20:37.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayco\\source\\repos\\api\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "C:\\Users\\mayco\\source\\repos\\api\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:16:46.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\mayco\\source\\repos\\api\\api\\DTOs\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "api\\DTOs\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\mayco\\source\\repos\\api\\api\\DTOs\\DepartmentDto.cs",
+              "RelativeToolTip": "api\\DTOs\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:16:02.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mayco\\source\\repos\\api\\api\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "api\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\mayco\\source\\repos\\api\\api\\Models\\Employee.cs",
+              "RelativeToolTip": "api\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:15:22.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\mayco\\source\\repos\\api\\api\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "api\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\mayco\\source\\repos\\api\\api\\Models\\Department.cs",
+              "RelativeToolTip": "api\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:15:06.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mayco\\source\\repos\\api\\api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "api\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mayco\\source\\repos\\api\\api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "api\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:14:17.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\mayco\\source\\repos\\api\\api\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\mayco\\source\\repos\\api\\api\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "api\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:13:46.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\mayco\\source\\repos\\api\\api\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\mayco\\source\\repos\\api\\api\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "api\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAowHMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:13:04.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
